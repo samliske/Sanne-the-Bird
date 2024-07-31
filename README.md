@@ -1,1 +1,1 @@
-# Sanne-the-Bird
+This is a program which converts raw data into musical notes using programs like Itertools and MIDIUtil. The example used here is a set of data representing the flight patterns of a bird named Sanne. This program is a great way to auralize different types of data.
